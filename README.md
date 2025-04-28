@@ -37,6 +37,6 @@ This project replicates the basic mechanics of a pool game with smooth ball move
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pool-game.git
+git clone https://github.com/AddyDev555/Pool-Game-CGVR
 pip install pygame pymunk
 python main.py
